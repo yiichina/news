@@ -1,3 +1,5 @@
+# Yii 2.0.1 发布了
+
 我们很高兴地宣布 Yii 2.0.1 发布了。请参考说明 http://www.yiiframework.com/download/ 安装或升级到此版本。
 
 版本 2.0.1 是 Yii 2.0 的一个补丁版本。其中包含了大约 90 个小的新功能和 bug 修复。更新的完整列表可以在 [更新日志](https://github.com/yiisoft/yii2/blob/2.0.1/framework/CHANGELOG.md) 中找到。除了代码的改进，也有很多文档的改进，尤其是 [Yii 2.0 的权威指南](http://www.yiiframework.com/doc-2.0/guide-index.html) 已被翻译成多种语言。在此，我们要感谢那些花宝贵时间帮助改进 [Yii 的贡献者](https://github.com/yiisoft/yii2/graphs/contributors)，因为你们才能使发布成为可能。
