@@ -1,0 +1,1 @@
+我们很高兴地宣布 Yii Framework version 2 的 Beta 版本。 您可以从 yiiframework.com 中下载。
