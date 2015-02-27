@@ -100,7 +100,7 @@ PHPUnit 3.8+ 现在可以使用。
 
 Request now properly reacts when there's X-HTTP-Method-Override header used to emulate various request types via POST.
 
-There are getIsPatchRequest(), getIsPatchViaPostRequest() and getPatch() methods allowing you to work with HTTP PATCH requests.
+有三个方法 getIsPatchRequest(), getIsPatchViaPostRequest() 和 getPatch() 允许其与 HTTP PATCH requests 结合工作。
 
 框架现在请求时的响应是通过HTTP协议版本。
 
