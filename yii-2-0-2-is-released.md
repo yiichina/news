@@ -22,7 +22,7 @@ echo Url::to(['@posts']);
 echo Url::toRoute('@posts');
 ```
 
-You may find route alias to be useful when your route design is not fixed and you want to avoid changing your URL creation code everywhere when your route design is changed.
+您可能会发现路径别名是有用的当你的路径设计是不固定的你想避免处处更改URL创建代码而使你的路线设计被改变。
 
 ## 依赖组件配置
 
@@ -65,7 +65,7 @@ class MyClass extends Object
 
 ## Immutable Slug
 
-如果你使用 yii\behaviors\SluggableBehavior，现在你可以使用一个固定的名字命名一个新属性。通过设置该属性为 true，if a slug has been generated before, 它将不再被改变，即使相应的源属性值改变。 这对 SEO 有特殊的目的用处因为你不想改变使用slug的公开的 URL。
+如果你使用 yii\behaviors\SluggableBehavior，现在你可以使用一个固定的名字命名一个新属性。通过设置该属性为 true，如果 slug 已经被创建，它将不再被改变，即使相应的源属性值改变。 这对 SEO 有特殊的目的用处因为你不想改变使用slug的公开的 URL。
 
 ## DatePicker Language Fallback
 
