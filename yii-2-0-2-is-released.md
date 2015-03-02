@@ -1,10 +1,10 @@
 # Yii 2.0.2 发布了 #
 
-我们很高兴地宣布 Yii Framework 2.0.2 版本发布了。请参考 http://www.yiiframework.com/download/ 里的说明安装或升级到该版本。
+我们很高兴地宣布 Yii Framework 2.0.2 版本发布了。请参考说明 http://www.yiiframework.com/download/ 安装或升级到此版本。
 
-2.0.2 版本是 Yii 2.0 发布的一个补丁其中包含约40个次要的新功能和bug修复。变化的完整列表可以在更改日志中找到。在此我们要感谢花宝贵的时间帮助提高 Yii 效率和使它能够发布的所有贡献者。
+版本 2.0.2 是 Yii 2.0 的一个补丁版本。其中包含约40个次要的新功能和bug修复。更新的完整列表可以在 [更新日志]中找到。在此我们要感谢花宝贵的时间帮助提高 Yii 效率和使它能够发布的所有贡献者。
 
-你可以遵循 Yii 2 的开发过程主要看 Yii 2.0 GitHub 的项目。你可以加入 Yii Twitter 组或者加入 Yii Facebook 组来联系其它 Yii 开发者。
+您可以遵循 Yii 2 的开发过程主要看 Yii 2.0 GitHub 的项目。您可以加入 Yii Twitter 组或者加入 Yii Facebook 组来联系其它 Yii 开发者。
 
 下面我们总结了一些最重要的特征包含在本篇发布中。
 
