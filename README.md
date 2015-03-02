@@ -1,6 +1,7 @@
 新闻列表
 ------------
 
+* [Yii 2.0.3 发布了](yii-2-0-3-is-released.md)
 * [Yii 2.0.2 发布了](yii-2-0-2-is-released.md)
 * [Yii 1.1.16 发布了](yii-1-1-16-is-released.md)
 * [Yii 2.0.1 发布了](yii-2-0-1-is-released.md)
