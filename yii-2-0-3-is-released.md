@@ -16,7 +16,7 @@ Yii 2.0.3 发布了
 
 ## RBAC 缓存
 
-如果您正在使用数据库来存储 RBAC 数据，你会发现它的执行并不理想，因为每个访问检查将涉及许多 SQL 语句的执行。为了提高性能，缓存机制正在实施对于 yii\rbac\DbManager。它存储在缓存中的整个 RBAC 层次结构中从而大大提高了 checkAccess() 的性能。默认情况下，RBAC 缓存未启用。您可以通过在应用程序配置中启用 yii\rbac\DbManager，如下：
+如果您正在使用数据库来存储 RBAC 数据，你会发现它的执行并不理想，因为每个访问检查将涉及许多 SQL 语句的执行。为了提高性能，yii\rbac\DbManager 现在实现了缓存机制。它存储在缓存中的整个 RBAC 层次结构中从而大大提高了 checkAccess() 的性能。默认情况下，RBAC 缓存未启用。您可以通过在应用程序配置中启用 yii\rbac\DbManager，如下：
 
 ```php
 return [
