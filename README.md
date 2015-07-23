@@ -1,6 +1,7 @@
 新闻列表
 ------------
 
+* [Yii 2.0.5 发布了](yii-2-0-5-is-released-security-fix.md)
 * [Yii 2.0.4 发布了](yii-2-0-4-is-released.md)
 * [Yii 2.0.3 发布了](yii-2-0-3-is-released.md)
 * [Yii 2.0.2 发布了](yii-2-0-2-is-released.md)
