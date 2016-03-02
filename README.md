@@ -1,6 +1,13 @@
 新闻列表
 ------------
 
+* [Yii 2.0.7 发布了](yii-2-0-7-is-released.md)
+* [Yii 1.1.17 发布了](yii-1-1-17-is-released.md)
+* [PHP 7 发布了](php-7-released.md)
+* [关于 Yii 1.1 的支持和终结期的最新通知](update-on-yii-1-1-support-and-end-of-life.md)
+* [新成员加入到 Yii 开发团队](new-member-joining-yii-team.md)
+* [Debug，Bootstrap，Sphinx 和 Authclient 扩展](debug-bootstrap-sphinx-and-authclient-extensions-version-2-0-5-released.md)
+* [Yii 2.0.6 发布了](yii-2-0-6-is-released.md)
 * [Yii 2.0.5 发布了(安全修复)](yii-2-0-5-is-released-security-fix.md)
 * [Yii 2.0.4 发布了](yii-2-0-4-is-released.md)
 * [Yii 2.0.3 发布了](yii-2-0-3-is-released.md)

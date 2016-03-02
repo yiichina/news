@@ -1,0 +1,1 @@
+我们很高兴的宣布有一位新成员加入我们的核心团队。他的名字叫 Dmitry Naumenko，他的 GitHub ID 是 [SilverFire](https://github.com/SilverFire)。Dmitry 来自于乌克兰基辅。尽管没有为团队工作太久，但他对本框架有很好的感知力，在开发使用的方法上及对问题的讨论上都展现了很强的技能。我们相信 他的加入能够帮助我们推动 Yii 前进。欢迎！
