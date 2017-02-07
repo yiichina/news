@@ -2,17 +2,17 @@
 
 我们很高兴的宣布 Yii 框架 2.0.11 版本发布了。请参考说明 http://www.yiiframework.com/download/ 安装或升级到此版本。
 
-2.0.11 版本是 Yii 2.0 的较小的发行版，它包含了超过 110 处的增强和 bug 修复。
+2.0.11 版本是 Yii 2.0 的较小的发行版，它包含了超过 [110 处的增强和 bug 修复](https://github.com/yiisoft/yii2/blob/2.0.11/framework/CHANGELOG.md)。
 
-有四个微小的变化可能影响到你的现有的应用程序，所以一定要检查 UPGRADE.md 文件。
+有四个微小的变化可能影响到你的现有的应用程序，所以一定要检查 [UPGRADE.md](https://github.com/yiisoft/yii2/blob/2.0.11/framework/UPGRADE.md) 文件。
 
-非常感谢我们优秀的社区， 我们共同完成了它。
+非常感谢我们优秀的[社区](https://github.com/yiisoft/yii2/graphs/contributors)， 我们共同完成了它。
 
-你可能通过 star 或者一直留意着 Yii 2.0 GitHub 项目跟上了 Yii 2 的发展历程。你也可能关注了 Yii 的推特或者加入了 Yii Facebook 群组来和其他 Yii 开发者保持联系。也有一个关于本新闻公告的论坛帖子。
+你可能通过 star 或者一直留意着 Yii 2.0 [GitHub 项目](https://github.com/yiisoft/yii2)跟上了 Yii 2 的发展历程。你也可能关注了 [Yii 的推特](https://twitter.com/yiiframework)或者加入了 [Yii Facebook 群组](https://www.facebook.com/groups/yiitalk/)来和其他 Yii 开发者保持联系。也有一个关于本新闻公告的论坛帖子。
 
-因为 Yii 2.1 已经在开发之中了，确保你的 `composer.json` 中写着 `~2.0.11` 而不是  `>=` 或者 `*` ，这样当下一个 Yii 主版本发行时，你的项目不会自己损坏。
+因为 [Yii 2.1 已经在开发之中了](https://github.com/yiisoft/yii2/tree/2.1)，确保你的 `composer.json` 中写着 `~2.0.11` 而不是  `>=` 或者 `*` ，这样当下一个 Yii 主版本发行时，你的项目不会自己损坏。
 
-下面总结一下包含在本次发行中最重要的功能/修复。关于变化的完整列表可以在 CHANGELOG 中找到。
+下面总结一下包含在本次发行中最重要的功能/修复。关于变化的完整列表可以在 [CHANGELOG](https://github.com/yiisoft/yii2/blob/2.0.11/framework/CHANGELOG.md) 中找到。
 
 
 ## 测试覆盖
@@ -21,12 +21,12 @@
 
 一些测试明显是重构的，比如对 URL mannger 的测试。测试的方法变得更小并且更容易理解。
 
-Alexey Rogachev 在修订框架的 JavaScript 部分和增加测试来修复过程中的 bug 上做得非常好。多亏了它，JavaScript 现在被测试完美地覆盖到了，因此我们可以期待更好的框架稳定性。
+[Alexey Rogachev](https://github.com/arogachev) 在修订框架的 JavaScript 部分和增加测试来修复过程中的 bug 上做得非常好。多亏了它，JavaScript 现在被测试完美地覆盖到了，因此我们可以期待更好的框架稳定性。
 
 
 ## 控制台
 
-控制台已经得到了 Bash and Zsh 对于./yii 命令的支持。 在手册中有对如何安装它的介绍。
+控制台已经得到了 Bash and Zsh 对于./yii 命令的支持。 在[手册中有对如何安装它的介绍](https://github.com/yiisoft/yii2/blob/master/docs/guide/tutorial-console.md#console-command-completion-)。
 
 另一个对可用性增强的是，当一个命令因为语法错误没能找到时，控制台脚本现在可以给出可供选择项了。
 
@@ -154,21 +154,21 @@ echo Url::to(['post/index', 'page' => 1]);
 
 ## 挂件
 
-通过在 init 和 render 之前之后 激发事件，部件的可扩展性大大地被提高了。请参考发行说明来了解一些它能派上用场的例子。
+通过在 init 和 render 之前之后 激发事件，部件的可扩展性大大地被提高了。请参考[发行说明](https://github.com/yiisoft/yii2/issues/7435)来了解一些它能派上用场的例子。
 
 
 ##安全
 
-现在有一个针对主机头攻击的 PHP 解决方案。 理想情况下，它应该能通过配置 web 服务器来被正确地解决，但是因为它是被请求的，并且它似乎是一个共享主机中十分常见的问题，我们给 HostControl filter 增加了一些功能。你可以在手册中阅读到配置相关。
+现在有一个针对主机头攻击的 PHP 解决方案。 理想情况下，它应该能通过配置 web 服务器来被正确地解决，但是因为它是被请求的，并且它似乎是一个共享主机中十分常见的问题，我们给 HostControl filter 增加了一些功能。你可以在[手册中阅读到配置相关](http://www.yiiframework.com/doc-2.0/guide-security-best-practices.html#avoiding-host-header-attacks)。
 
 存在一个问题，是关于在 debug 模式中逃逸的请求数据。因为这个问题影响开发模式，而不影响生产模式，所以我们决定不去开发一个独立的发行版来修复它。
 
 
 ## Composer 安装
 
-此发行版中，我们也推出了一个 Yii 新版本 (2.0.5) 的 Composer 安装。对于那些不知道的人，该 composer 插件能够跟踪所有已安装的扩展和提供较少配置的引导机制。当一个新项目通过 composer 创建时，它也给正在运行的任务增加了一些钩子。多亏了 Robert Korulczyk，结合发行版，在 composer 安装好项目之后也能执行任务。这对于处理本地配置文件非常有用，现在新的复制文件的方法也可能使用了。查看 README 获取更多信息。
+此发行版中，我们也推出了一个 Yii 新版本 (2.0.5) 的 [Composer 安装](https://github.com/yiisoft/yii2-composer)。对于那些不知道的人，该 composer 插件能够跟踪所有已安装的扩展和提供较少[配置的引导机制](http://www.yiiframework.com/doc-2.0/guide-structure-extensions.html#bootstrapping-classes)。当一个新项目通过 composer 创建时，它也给正在运行的任务增加了一些钩子。多亏了 [Robert Korulczyk](https://github.com/rob006)，结合发行版，在 composer 安装好项目之后也能执行任务。这对于处理本地配置文件非常有用，现在新的复制文件的方法也可能使用了。查看 [README](https://github.com/yiisoft/yii2-composer#usage) 获取更多信息。
 
-因为该发行版本中，该插件将比之前更可见，因为现在当你更新 `yiisoft/yii2`  包时，它会通知你 UPGRADE.md 中最新的提示。
+因为该发行版本中，该插件将比之前更可见，因为现在当你更新 `yiisoft/yii2`  包时，它会通知你 [UPGRADE.md](https://github.com/yiisoft/yii2/blob/2.0.11/framework/UPGRADE.md) 中最新的提示。
 
 
 ## 带签名的提交和标签
@@ -177,4 +177,4 @@ echo Url::to(['post/index', 'page' => 1]);
 
 你已经能够以 github 中一个小的 "verified" 标签的形式来看到此变化了：
 
-https://github.com/yiisoft/yii2-framework/releases/tag/2.0.11。
+https://github.com/yiisoft/yii2-framework/releases/tag/2.0.11 。
