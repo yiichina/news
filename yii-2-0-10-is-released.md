@@ -1,3 +1,5 @@
+**Yii 2.0.10 发布了**
+
 我们很高兴的宣布 Yii 框架 2.0.10 版本发布了。请参考说明 [http://www.yiiframework.com/download/](http://www.yiiframework.com/download/) 安装或升级到此版本。
 
 2.0.10 版本是 Yii 2.0 的一次小的发布，其中包含大约 [80 个小的新功能和 bug 的修复](https://github.com/yiisoft/yii2/blob/2.0.10/framework/CHANGELOG.md)。

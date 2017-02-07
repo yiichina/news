@@ -1,3 +1,5 @@
+**Imagine 扩展 2.0.4 版本发布了**
+
 我们很高兴的宣布 Imagine 扩展 2.0.4 版本发布了。
 
 唯一的变化是 `Image::thumbnail()`  现在可以基于原始图像的宽高比自动计算缩略图尺寸。`Image::$thumbnailBackgroundColor` 和 `Image::$thumbnailBackgroundAlpha`  被引入以能够配置缩略图的填充颜色。
