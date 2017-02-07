@@ -10,7 +10,7 @@
 * [Imagine 扩展 2.1.0 版本发布了](imagine-extension-version-2-1-0-released.md)
 * [MongoDB 扩展 2.1.2 版本发布了](mongodb-extension-version-2-1-2-released.md)
 * [HTTP 客户端扩展 2.0.2 发布了](http-client-extension-version-2-0-2-released.md)
-* [新成员加入到 Yii 团队](new-member-joining-yii-team.md)
+* [新成员加入到 Yii 团队](new-member-joining-yii-team-2.md)
 * [Yii 2.0.10 发布了](yii-2-0-10-is-released.md)
 * [Twig 扩展 2.0.6 版本发布了](twig-extension-version-2-0-6-released.md)
 * [Swiftmailer 扩展 2.0.6 版本发布了](swiftmailer-extension-version-2-0-6-released.md)
