@@ -1,0 +1,3 @@
+After nearly five months' search, we finally found the ideal design that we are longing for. And that is the design proposed by Fred Wu. If you are interested in seeing how the new logo and page design look like, please check the [forum post](http://www.yiiframework.com/forum/index.php/topic,3017.0.html).
+
+We hereby thank to people who proposed designs for Yii and people who gave valuable advices. We hope you like the new design. Feel free to let us know if you have any suggestions. Thank you!

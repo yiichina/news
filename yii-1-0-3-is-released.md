@@ -1,0 +1,7 @@
+We are proud to announce the release of Yii Framework v1.0.3!
+
+In this release, we included about thirty feature enhancements and a dozen of bug fixes. In particular, we added the support for application modules that serve as highly reusable software units at the coarsest level. We further enhanced ActiveRecord by allowing developers to fully control how to join related tables, including lazy join, eager join, aggressive join and hybrid join. We also implemented the script mapping feature which can be used with the newly-added Google AJAX API support to optimize external script inclusion in Web pages. Please check the [change log](http://www.yiiframework.com/files/CHANGELOG-1.0.3.txt) to learn about the complete list of changes.
+
+We also made significant progress with documentation. We added a tutorial describing how to use Yii to build a blog system. We developed a collaborative tutorial system called Yii cookbook which has already attracted from our community users about twenty articles covering various aspect on Yii. With the gracious contribution from the Yii community, the Definitive Guide to Yii has been completely translated into German (by Michael Härtl and Peter Matulla) and Swedish (by Tommy)! And the translations to Russian, Japanese and Romanian are close to be finished.
+
+Thank you for your support! And special thanks to [those who participated in Yii translation project](http://www.yiiframework.com/forum/index.php/topic,477.msg2340.html).

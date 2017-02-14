@@ -1,0 +1,3 @@
+It is a great honor that Yii, as the only PHP framework, was nominated for [Great Indian Developer Awards 2009](http://www.developersummit.com/awards.html)! The second edition of India’s first and premier awards for the software developer ecosystem will recognize organizations and products that are contributing to the evangelism, productivity and innovation excellence of the Indian developer ecosystem.
+
+Yii folks, please show your passion for Yii by [voting for Yii](http://www.developersummit.com/awards.html#nominee_9_7). The voting process starts from now and lasts till April 3, 2009.

@@ -1,0 +1,5 @@
+We are proud to announce the alpha release of Yii Framework v1.1!
+
+This release marks a major milestone in the Yii framework development. It includes many new significant features to the already powerful Yii framework. We added a PHPUnit-based testing framework so that developers can more easily write unit tests and functional tests; We added a form builder so that commonly used HTML forms can be built in terms of objects and thus enhance their reusability; We added support for changing skins for widgets globally; We also modified the way of performing relational ActiveRecord queries so that they are more intuitive and easier to use.
+
+Besides all these core feature enhancements, we also started a new project called zii, which represents a set of official extensions for yii. The zii project will be under heavy development from now on, and we will include it in each of the 1.1 releases.

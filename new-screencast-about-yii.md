@@ -1,0 +1,1 @@
+Jeffery Winesett 刚录完一部新的关于Yii的[视频教程](http://www.yiiframework.com/screencasts/)，它展示了如何创建开发环境及创建第一个Yii WEB应用。更多的视频教程即将出现。请大家关注。

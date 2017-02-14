@@ -1,0 +1,5 @@
+我们很高兴的宣布 Yii Framework 的两个版本：1.1.1 和 1.0.12 发布了。
+
+The long-awaited 1.1.1 release is a major service pack to the previous 1.1.0 release. In this release, we fixed more than 20 bugs. We also included numerous new features, some of which are expected to further accelerate development speed using Yii. For example, the new CActiveForm widget allows developers to easily build HTML forms that support both client- and server-side validation by writing validation rules only once; The CGridView widget now supports filtering; And the Yii code generator tool will now generate the code implementing searching and filtering features. Please check the [change log](http://www.yiiframework.com/files/CHANGELOG-1.1.1.txt) for complete list of changes.
+
+The 1.0.12 release is a maintenance release of 1.0 branch. It mainly includes a few minor bug fixes and features. Upgrading to this release from the earlier 1.0.x releases should be very safe.

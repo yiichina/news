@@ -1,0 +1,1 @@
+[YII权威指南](http://www.yiiframework.com/doc/guide)现在可以得到[PDF格式](http://www.yiiframework.com/files/yii-guide-1.0.pdf)了，感谢Wei Zhuo漂亮的转变成PDF。

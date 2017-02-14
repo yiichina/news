@@ -1,0 +1,1 @@
+Jeffery Winesett 刚刚做好他的[Yii视频教程](http://www.yiiframework.com/screencasts/)系列的最后一期。 在这一讲中,他介绍了如何使用的数据库存储和检索的信息内容。

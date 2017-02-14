@@ -1,0 +1,1 @@
+[Yii Cookbook](http://www.yiiframework.com/wiki/)是一个教程集合,每个教程解决一个特定的开发任务。每一个拥有Yii论坛帐号可以参与创建或编辑cookbook页面。现在就开始分享你的Yii知识。

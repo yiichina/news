@@ -1,0 +1,1 @@
+Jeffery Winesett刚录完一部关于Yii新[视频教程](http://www.yiiframework.com/screencasts/)。 它演示如何连接到一个数据库,快速地对一个数据库表创建基于GUI-based的CRUD功能。更多的视频教程即将出现。请大家关注。

@@ -1,0 +1,1 @@
+我们很高兴的宣布有两名新成员加入到了 Yii 开发团队：[Timur Ruziev](https://github.com/resurtm) 和 [Paul Klimov](https://github.com/klimov-paul)。如果你正在关注 GitHub 上的 Yii 开发活动，你可能已经知道他们非常优秀。Timur 和 Paul 非常专注于 Yii 并且有优秀的技术本领。我们相信他们加入团队将帮助推进使 Yii 速度更快。欢迎！
