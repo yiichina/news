@@ -1,6 +1,10 @@
 新闻列表
 ------------
 
+* [认证客户端扩展 2.1.2 版本发布了](auth-client-extension-version-2-1-2-released.md)
+* [HTTP 客户端扩展 2.0.3 版本发布了](http-client-extension-version-2-0-3-released.md)
+* [Sphinx 扩展 2.0.7 版本发布了](sphinx-extension-version-2-0-7-released.md)
+* [MongoDB 扩展 2.1.3 版本发布了](mongodb-extension-version-2-1-3-released.md)
 * [Yii 2.0.11 发布了](yii-2-0-11-is-released.md)
 * [最近曝出的 PHPMailer 和 SwiftMailer 的安全问题](recent-security-issues-with-phpmailer-and-swiftmailer.md)
 * [Debug toolbar 扩展 2.0.7 版本发布了](debug-toolbar-extension-version-2-0-7-released.md)
