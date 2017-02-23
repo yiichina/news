@@ -1,6 +1,8 @@
 新闻列表
 ------------
 
+* [Debug 扩展 2.0.9 版本发布了](debug-extension-version-2-0-9-released.md)
+* [Debug 扩展 2.0.8 版本发布了](debug-extension-version-2-0-8-released.md)
 * [认证客户端扩展 2.1.2 版本发布了](auth-client-extension-version-2-1-2-released.md)
 * [HTTP 客户端扩展 2.0.3 版本发布了](http-client-extension-version-2-0-3-released.md)
 * [Sphinx 扩展 2.0.7 版本发布了](sphinx-extension-version-2-0-7-released.md)
