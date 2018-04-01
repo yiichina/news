@@ -1,6 +1,8 @@
 新闻列表
 ------------
 
+* [Yii 2 MongoDB 扩展 2.1.7 版本发布了](yii-2-mongodb-extension-2-1-7-released.md)
+* [Shell 扩展 2.0.1 版本发布了](shell-extension-version-2-0-1-released.md)
 * [新版 Yiiframework.com 网站最后的发布](finally-releasing-the-new-yiiframework-com-website.md)
 * [Yii 2.0.15 和 数据库扩展的安全补丁发布了](releasing-yii-2-0-15-and-database-extensions-with-security-fixes.md)
 * [Debug 扩展 2.0.9 版本发布了](debug-extension-version-2-0-9-released.md)
