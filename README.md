@@ -1,6 +1,9 @@
 新闻列表
 ------------
 
+* [Gii 扩展 2.0.7 版本发布了](gii-extension-2-0-7-released.md)
+* [Smarty 扩展 2.0.7 版本发布了](smarty-extension-2-0-7-released.md)
+* [Swiftmailer 扩展 2.1.1 版本发布了](swiftmailer-extension-2-1-1-released.md)
 * [Yii 2 MongoDB 扩展 2.1.7 版本发布了](yii-2-mongodb-extension-2-1-7-released.md)
 * [Shell 扩展 2.0.1 版本发布了](shell-extension-version-2-0-1-released.md)
 * [新版 Yiiframework.com 网站最后的发布](finally-releasing-the-new-yiiframework-com-website.md)
