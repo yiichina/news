@@ -1,6 +1,7 @@
 新闻列表
 ------------
 
+* [Yii 1.1.20 发布了](yii-1-1-20-is-released.md)
 * [Yii 自 3.0.0 版本开始采用 SemVer](yii-adopts-semver-since-version-3-0-0.md)
 * [Queue 扩展 2.1.0 发布了](queue-extension-2-1-0-released.md)
 * [Gii 扩展 2.0.7 版本发布了](gii-extension-2-0-7-released.md)
