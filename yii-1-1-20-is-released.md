@@ -1,13 +1,13 @@
-We are very pleased to announce that Yii Framework version 1.1.20 is released. You can download it at [yiiframework.com/download/](https://www.yiiframework.com/download/#yii1).
+我们很高兴的宣布 Yii Framework 1.1.20 版本发布了。可以通过 yiiframework.com/download/ 来下载。
 
-This release is a release of Yii 1.1 that [has reached maintenance mode](https://www.yiiframework.com/news/90/update-on-yii-1-1-support-and-end-of-life/) and will, only receive necessary security fixes and fixes to adjust the code for compatibility with PHP 7 if they do not cause breaking changes. This allows you to keep your servers PHP version up to date in the environments where old Yii 1.1 applications are hosted and stay within the [version ranges supported by the PHP team](http://php.net/supported-versions.php). Yii 1.1.20 is compatible with PHP 7.2 that, at the time of this writing, has an announced security support until November 30, 2020.
+此版本是 Yii 1.1 的版本 它已经达到了维护的模式 和意愿，只接收必要的安全修复和调整与 PHP 7兼容的代码的修复，如果它们不会引起破坏性的更改。这允许您在旧的 YII 1.1 应用程序托管的环境下保持服务器 PHP 版本，并保持在PHP团队支持的版本范围内。Yii 1.1.20 完全兼容 PHP 7.2 ，自本次发布到 2020 年 11 月 30 日 是有安全保障的。
 
-We recommend to use Yii 2.0 for new projects as well as introducing Yii 2.0 for developing new features in existing Yii 1.1 apps, as described in [the Yii 2 guide](http://www.yiiframework.com/doc-2.0/guide-tutorial-yii-integration.html#using-both-yii2-yii1). Upgrading a whole app to Yii 2.0 will, in most cases, result in a total rewrite so this option provides a way for upgrading step by step and allows you to keep old applications up to date even with low budget.
+我们建议在新的项目中使用 Yii 2.0，此外在现有的 Yii 1.1 应用程序中引入 Yii 2.0 来开发新功能，正如 Yii 2 guide 中所述。将整个应用程序升级到 Yii 2.0，在大多数情况下，该选项提供了一种逐步升级的方式，并允许您即使在低预算的情况下也能保持旧的应用程序。
 
-This release includes a few PHP 7 compatibility fixes and security improvements.
+此版本包括几个 PHP 7 兼容性修复和安全性改进。
 
-For the complete list of changes in this release, please see [the change log](https://raw.githubusercontent.com/yiisoft/yii/1.1.20/CHANGELOG). For upgrading, always make sure to read the [upgrade instructions](https://raw.githubusercontent.com/yiisoft/yii/1.1.20/UPGRADE), however in this release there are no changes that require changes.
+此版本更新的完整列表，请参阅 change log。升级时请务必阅读 升级说明，即使在此版本中没有需要更改的。
 
-We would like to express our gratitude to [all contributors](https://github.com/yiisoft/yii/graphs/contributors) who have spent their precious time helping improve Yii and made this release possible.
+我们对 所有的贡献者 表示感谢，他们花费了宝贵的时间来帮助改善 Yii ，并且帮助本版本的发布。
 
-To comment on this news, you can do so in the [related forum post](https://www.yiiframework.com/forum/index.php/topic/76941-yii-1120-is-released/).
+如果想评论本新闻，你可以按照 该论坛的相关帖子来操作。
