@@ -1,0 +1,5 @@
+We are happy to announce the release of the first official stable version of the Yii 2 Queue Extension. Roman Zhuravlev took care of rewriting and polishing the queue extension after core team and community made initial prototypes. His work had been released as a zhuravlev/yii2-queue package before and proved to be of good quality. Together we've decided to move the package under the yiisoft organization so it gets more attention and support. Roman agreed to maintain it further together with current Yii team.
+
+As of today you can install the extension by requiring yiisoft/yii2-queue in composer which is tagged as version 2.0.0. The extension allows processing of background jobs and provides a common interface for different backend systems from simple onces, like file and database storages, to queue systems like Beanstalk, Gearman, RabbitMQ, and Redis.
+
+Check out the README for quick start instructions. More detailed docs are also available in the repository and will be put into website and linked from official guide soon.
