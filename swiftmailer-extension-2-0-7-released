@@ -1,0 +1,9 @@
+We are very pleased to announce the release of the [Swiftmailer extension](https://github.com/yiisoft/yii2-swiftmailer) version 2.0.7 which brings 3 enhancements and bug fixes.
+
+We added the ability to setup several message headers in batch, including configuration at `yii\swiftmailer\Mailer::$messageConfig`.
+
+This release provides better logging support, by choosing logging level (info, trace, warning) according to swiftmailer log format.
+
+Fixed bug: `yii\swiftmailer\Message` did not clone the underlying $swiftMessage instance during its own cloning.
+
+See the [CHANGELOG](https://github.com/yiisoft/yii2-swiftmailer/blob/master/CHANGELOG.md) for details.
