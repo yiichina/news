@@ -1,6 +1,16 @@
 新闻列表
 ------------
 
+* [Debug 扩展 2.0.14 版本发布了](debug-extension-2-0-14-released.md)
+* [HTTP 客户端扩展 2.0.7 版本发布了](http-client-extension-2-0-7-released.md)
+* [Swiftmailer 扩展 2.1.2 版本发布了](swiftmailer-extension-2-1-2-released.md)
+* [Twig 扩展 2.2.1 版本发布了](twig-extension-2-2-1-released.md)
+* [Sphinx 扩展 2.0.11 版本发布了](sphinx-extension-2-0-11-released.md)
+* [Redis 扩展 2.0.9 版本发布了](redis-extension-2-0-9-released.md)
+* [认证客户端扩展 2.1.7 版本发布了](auth-client-extension-2-1-7-released.md)
+* [认证客户端扩展 2.1.6 版本发布了](auth-client-extension-2-1-6-released.md)
+* [更换论坛软件，转到 Discourse](replacing-the-forum-software-moving-to-discourse.md)
+* [新成员加入 Yii 团队作为主要的 Yii 3.0 开发成员](new-member-joining-yii-team-as-primary-yii-3-0-developer.md)
 * [Yii 1.1.20 发布了](yii-1-1-20-is-released.md)
 * [Yii 自 3.0.0 版本开始采用 SemVer](yii-adopts-semver-since-version-3-0-0.md)
 * [Queue 扩展 2.1.0 发布了](queue-extension-2-1-0-released.md)
