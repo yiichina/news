@@ -1,6 +1,7 @@
 新闻列表
 ------------
 
+* [ApiDoc 扩展 2.1.1 版本发布了](apidoc-extension-version-2-1-1-released.md)
 * [Debug 扩展 2.0.14 版本发布了](debug-extension-2-0-14-released.md)
 * [HTTP 客户端扩展 2.0.7 版本发布了](http-client-extension-2-0-7-released.md)
 * [Swiftmailer 扩展 2.1.2 版本发布了](swiftmailer-extension-2-1-2-released.md)
