@@ -1,6 +1,13 @@
 新闻列表
 ------------
 
+* [Yii 发布周期说明](yii-release-cycle-clarified.md)
+* [Yii 2.0.16.1 发布了](yii-2-0-16-1-is-released.md)
+* [Yii 2.0.16 发布了](yii-2-0-16-is-released.md)
+* [Bootstrap 扩展 2.0.9 版本发布了](bootstrap-extension-version-2-0-9-released.md)
+* [Bootstrap 4 扩展 2.0.0 版本发布了](bootstrap-4-extension-version-2-0-0-released.md)
+* [Auth Client 扩展 2.1.8 版本发布了](auth-client-extension-2-1-8-released.md)
+* [Shell 扩展 2.0.2 版本发布了](shell-extension-2-0-2-released.md)
 * [PHP 7.3.0 发布了](php-7-3-0-released.md)
 * [Gii 扩展 2.0.8 版本发布了](gii-extension-2-0-8-released.md)
 * [ApiDoc 扩展 2.1.1 版本发布了](apidoc-extension-version-2-1-1-released.md)
